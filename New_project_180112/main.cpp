@@ -9,5 +9,6 @@ int main()
 	cout << "Earth is mine" << endl;
 	cout << "World on Github" << endl;
 	cout << "Earth on Local repository" << endl;
+	cout << "The End" << endl;
 
 }
